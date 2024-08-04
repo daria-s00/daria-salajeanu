@@ -1,0 +1,94 @@
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width">
+ <title>Portfolio | Artworks</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <h1>Artworks</h1>
+ <p id="explicatie">Other artworks, made in different mediums, addressing various topics.</p>
+ 
+ <div>
+
+<div>
+<div class="maini">
+ <img src="mainile.jpg" alt="Lucrare maini" class="mainile" style="height:700px;width:450px">
+ <div class="mainile_overlay">
+   <div class="titlu_mainile">String of life, <i>2022</i></div>
+   <p class="date_mainile">Size 50x35 cm<br>Technique - graphite, liner</p>
+ </div>
+</div>
+
+<div class="pupici">
+ <img src="pupicul.jpg" alt="Lucrare pupicul" class="pupicul" style="height:700px;width:450px">
+ <div class="pupicul_overlay">
+   <div class="titlu_pupicul">A small kiss, <i>2023</i></div>
+   <p class="date_pupicul">Size 40x25 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+
+
+<div class="florile">
+ <img src="flori.jpg" alt="Lucrare flori" class="flori" style="height:700px;width:500px">
+ <div class="flori_overlay">
+   <div class="titlu_flori">Mold flowers, <i>2024</i></div>
+   <p class="date_flori">Size 70x50 cm<br>Technique - graphite, charcoal</p>
+ </div>
+</div>
+
+<div class="mileuri">
+ <img src="mileu.jpg" alt="Lucrare mileu" class="mileu" style="height:700px;width:500px">
+ <div class="mileu_overlay">
+   <div class="titlu_mileu">Wire lace, <i>2023</i></div>
+   <p class="date_mileu">Size 70x50 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+
+<div class="ferestre">
+ <img src="fereastra.jpg" alt="Lucrare fereastra" class="fereastra" style="height:700px;width:400px">
+ <div class="fereastra_overlay">
+   <div class="titlu_fereastra">Transmitted messages, <i>2023</i></div>
+   <p class="date_fereastra">Size 100x55 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+
+<div class="candelabre">
+ <img src="candelabru.jpg" alt="Lucrare candelabru" class="candelabru" style="height:700px;width:500px">
+ <div class="candelabru_overlay">
+   <div class="titlu_candelabru">Seen from above, <i>2024</i></div>
+   <p class="date_candelabru">Size 100x70 cm<br>Technique - charcoal</p>
+ </div>
+</div>
+
+
+
+<div class="omuleti">
+ <img src="omulet.jpg" alt="Lucrare omulet" class="omulet" style="height:700px;width:500px">
+ <div class="omulet_overlay">
+   <div class="titlu_omulet">Control, <i>2022</i></div>
+   <p class="date_omulet">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="candelabre-a3">
+ <img src="candelabru-a3.jpg" alt="Lucrare candelabru-a3" class="candelabru-a3" style="height:700px;width:500px">
+ <div class="candelabru-a3_overlay">
+   <div class="titlu_candelabru-a3">Seen from above 2, <i>2024</i></div>
+   <p class="date_candelabru-a3">Size 42x29 cm<br>Technique - charcoal</p>
+ </div>
+</div>
+</div>
+
+<div>
+ <a href="meniu2.html"><button  type="button" class="homepage" style="margin-bottom:30px; margin-left:660px">Home</button></a>
+</div>
+
+</div>
+
+
+</body>
+</html>
