@@ -1,0 +1,30 @@
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width">
+ <title>Portfolio | Details</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <h1>Details</h1>
+ <p id="explicatie">Details of some of the artworks already shown.</p>
+ 
+<div class="imaginidetalii">
+ <img src="gagica3detaliu.jpg" alt="Detaliu lucrare gagica" class="detaliugagica1">
+ <img src="gagica4detaliu.jpg" alt="Detaliu lucrare gagica" class="detaliugagica2">
+ 
+ <img src="detaliu1-fereastra.jpg" alt="Detaliu lucrare fereastra" class="detaliufereastra1">
+ <img src="detaliu2-fereastra.jpg" alt="Detaliu lucrare fereastra" class="detaliufereastra2">
+
+ <img src="detaliu1-masa1.jpg" alt="Detaliu lucrare masa" class="detaliumasa1">
+ <img src="detaliu1-masa1.jpg" alt="Detaliu lucrare masa" class="detaliumasa2">
+
+ <img src="detaliupupic.jpg" alt="Detaliu lucrare pupic" class="detaliupupic">
+ <img src="detaliucandelabru.jpg" alt="Detaliu lucrare candelabru" class="detaliucandelabru">
+ </div>
+ 
+  <div class="homepagedetalii">
+   <a href="meniu2.html"><button  type="button" class="homepage">Home</button></a>
+  </div>
+</body>
+</html>
