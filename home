@@ -1,0 +1,55 @@
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width">
+ <title>Portfolio</title>
+ <link rel="stylesheet" href="style.css">
+ <style>
+  <a href="style.css"></a>
+ </style>
+</head>
+<body>
+ <h1>Daria Sălăjeanu</h1>
+
+
+<table bgcolor="black" cellspacing="5px" cellpadding="5px" id="tabel_expozitii">
+<ul>
+ <tr>
+  <td class="aa">Exhibitions</td>
+ </tr>
+ <tr>
+  <td class="expo"><li>Colective exhibition - Academia di Belle Arti, Urbino, Italia</li></td>
+  <td class="data">may 2024</td>
+ </tr>
+ <tr>
+  <td class="expo"><li>Colective exhibition - Timișoara, România</li></td>
+  <td class="data">may 2024</td>
+ </tr>
+ <tr>
+  <td class="expo"><li>Colective exhibition - Gliwice, Polonia</li></td>
+  <td class="data">june 2023</td>
+ </tr>
+ <tr>
+  <td class="expo"><li>Colective exhibition - Govăjdia, România</li></td>
+  <td class="data">may 2023</td>
+ </tr>
+ <tr>
+  <td class="expo"><li>Colective exhibition - Nuremberg, Germania</li></td>
+  <td class="data">march 2023</td>
+ </tr>
+ </ul>
+</table> 
+ 
+  <div>
+    <img src="poza_meniu.png" alt="gravura rinocer" class="poza_meniu">
+ <a href="serii lucrari.html"><button  type="button" class="text">Series</button></a>
+ <br>
+   <a href="alte_lucrari.html"><button  type="button" class="text">Artworks</button></a>
+ <br>
+   <a href="detalii_lucrari.html"><button  type="button" class="text">Details</button></a>
+ <br>
+   <a href="contact.html"><button  type="button" class="contact">Contact</button></a>
+</div>
+
+</body>
+</html>
