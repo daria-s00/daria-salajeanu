@@ -1,0 +1,48 @@
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width">
+ <title>Portofoliu | Contact</title>
+ <link rel="stylesheet" href="style.css">
+ <style>
+  <a href="style.css"></a>
+ </style>
+</head>
+<body>
+
+<div class="divcontact">
+
+  <div  class="inima">
+    <img src="inima.gif" alt="gif inima">
+  </div>
+  
+ <div id="homepagecontact">
+   <img src="fundal_contact.jpg" style="width:100%">
+   <a href="meniu2.html"><button  type="button" class="homepage">Home</button></a>
+ </div>
+
+<form action="mailto:daria.salajeanu@gmail.com" class="formular">
+<table id="tabel_formular">
+<tr>
+ <td id="text_formular"><label>Name</td> 
+ <td><input type="text" name="nume" autofocus id="casete_formular" required></td>
+</tr>
+<tr>
+ <td id="text_formular"><label>Email</td>
+ <td><input type="email" name="email" autofocus  id="casete_formular" required></td>
+</tr>
+<tr>
+ <td id="text_formular"><label>Text</td>
+ <td><textarea id="mesaj_formular" required></textarea></td>
+</tr>
+ <td></td>
+ <td><input type="submit" value="trimite" id="trimite"></td>
+</form>
+
+ 
+  
+</div>
+
+
+</body>
+</html>
