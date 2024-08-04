@@ -1,0 +1,274 @@
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width">
+ <title>Portfolio | Series of artworks</title>
+ <link rel="stylesheet" href="style.css">
+ <style>
+  <a href="style.css"></a>
+ </style>
+</head>
+<body>
+ <h1 class="head_pagini">Series of artworks</h1>
+ <p id="explicatie">Artworks made into series, done in different mediums.</p>
+ 
+<br>
+
+<div>
+
+<div class="mese1">
+ <img src="masa1.jpg" alt="Lucrare masa1" class="masa1" style="height:600px">
+ <div class="masa1_overlay">
+     <div class="titlu_masa1">Autobiography 1, <i>2023</i></div>
+	 <p class="date_masa1">Size 50x70 cm<br>Technique - graphite</p>
+  </div>
+</div>
+
+<div class="mese2">
+ <img src="masa2.jpg" alt="Lucrare masa2" class="masa2" style="height:600px">
+ <div class="masa2_overlay">
+    <div class="titlu_masa2">Autobiography 2, <i>2023</i></div>
+	<p class="date_masa2">Size 50x70 cm<br>Technique - graphite</p>
+ </div>
+</div>
+ 
+<div class="mese3">
+ <img src="masa3.jpg" alt="Lucrare masa3" class="masa3" style="height:600px">
+ <div class="masa3_overlay">
+    <div class="titlu_masa3">Autobiography 3, <i>2023</i></div>
+	<p class="date_masa3">Size 50x70 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<br>
+
+<div class="dinti1">
+ <img src="dinte1.jpg" alt="Lucrare dinti1" class="dinte1" style="height:400px;width:600px">
+ <div class="dinte1_overlay">
+    <div class="titlu_dinte1">The beauty of ugliness 1, <i>2024</i></div>
+	<p class="date_dinte1">Size 29x42 cm<br>Technique - graphite, coloured pencil</p>
+ </div>
+</div>
+
+<div class="dinti2">
+ <img src="dinte2.jpg" alt="Lucrare dinti2" class="dinte2" style="height:400px;width:600px">
+ <div class="dinte2_overlay">
+    <div class="titlu_dinte2">The beauty of ugliness 2, <i>2024</i></div>
+	<p class="date_dinte2">Size 29x42 cm<br>Technique - graphite, coloured pencil</p>
+ </div>
+</div>
+
+<div class="dinti3">
+ <img src="dinte3.jpg" alt="Lucrare dinti3" class="dinte3" style="height:400px;width:600px">
+ <div class="dinte3_overlay">
+    <div class="titlu_dinte3">The beauty of ugliness 3, <i>2024</i></div>
+	<p class="date_dinte3">Size 29x42 cm<br>Technique - graphite, coloured pencil</p>
+ </div>
+</div>
+
+<div class="dinti4">
+ <img src="dinte4.jpg" alt="Lucrare dinti4" class="dinte4" style="height:400px;width:600px">
+ <div class="dinte4_overlay">
+    <div class="titlu_dinte3">The beauty of ugliness 4, <i>2024</i></div>
+	<p class="date_dinte3">Size 29x42 cm<br>Technique - graphite, coloured pencil</p>
+ </div>
+</div>
+
+<div class="dinti5">
+ <img src="dinte5.jpg" alt="Lucrare dinti5" class="dinte5" style="height:400px;width:600px">
+ <div class="dinte5_overlay">
+    <div class="titlu_dinte5">The beauty of ugliness 5, <i>2024</i></div>
+	<p class="date_dinte5">Size 29x42 cm<br>Technique - graphite, coloured pencil</p>
+ </div>
+</div>
+
+<div class="dinti6">
+ <img src="dinte6.jpg" alt="Lucrare dinti6" class="dinte6" style="height:400px;width:600px">
+ <div class="dinte6_overlay">
+    <div class="titlu_dinte6">The beauty of ugliness 6, <i>2024</i></div>
+	<p class="date_dinte6">Size 29x42 cm<br>Technique - graphite, coloured pencil</p>
+ </div>
+</div>
+
+
+<br>
+
+
+<div class="gagici1">
+ <img src="gagica1.jpg" alt="Lucrare gagica1" class="gagica1" style="height:750px;width:550px">
+ <div class="gagica1_overlay">
+   <div class="titlu_gagica1">Ephemeral 1, <i>2024</i></div>
+   <p class="date_gagica1">Size 50x35 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="gagici2">
+ <img src="gagica2.jpg" alt="Lucrare gagica2" class="gagica2" style="height:750px;width:550px">
+ <div class="gagica2_overlay">
+   <div class="titlu_gagica2">Ephemeral 2, <i>2024</i></div>
+   <p class="date_gagica2">Size 50x35 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="gagici3">
+ <img src="gagica3.jpg" alt="Lucrare gagica3" class="gagica3" style="height:750px;width:550px">
+ <div class="gagica3_overlay">
+   <div class="titlu_gagica3">Ephemeral 3, <i>2024</i></div>
+   <p class="date_gagica3">Size 50x35 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="gagici4">
+ <img src="gagica4.jpg" alt="Lucrare gagica4" class="gagica4" style="height:750px;width:550px">
+ <div class="gagica4_overlay">
+   <div class="titlu_gagica4">Ephemeral 4, <i>2024</i></div>
+   <p class="date_gagica4">Size 50x35 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+
+<br>
+
+
+
+<div class="orase1">
+ <img src="oras1.jpg" alt="Lucrare oras1" class="oras1" style="height:600px;width:400px">
+ <div class="oras1_overlay">
+   <div class="titlu_oras1">Urban aesthetic 1, <i>2023</i></div>
+   <p class="date_oras1">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="orase2">
+ <img src="oras2.jpg" alt="Lucrare oras2" class="oras2" style="height:600px;width:400px">
+ <div class="oras2_overlay">
+   <div class="titlu_oras2">Urban aesthetic 2, <i>2023</i></div>
+   <p class="date_oras2">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="orase3">
+ <img src="oras3.jpg" alt="Lucrare oras3" class="oras3" style="height:600px;width:400px">
+ <div class="oras3_overlay">
+   <div class="titlu_oras3">Urban aesthetic 3, <i>2023</i></div>
+   <p class="date_oras3">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="orase4">
+ <img src="oras4.jpg" alt="Lucrare oras4" class="oras4" style="height:600px;width:400px">
+ <div class="oras4_overlay">
+   <div class="titlu_oras4">Urban aesthetic 4, <i>2023</i></div>
+   <p class="date_oras4">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="orase5">
+ <img src="oras5.jpg" alt="Lucrare oras5" class="oras5" style="height:600px;width:400px">
+ <div class="oras5_overlay">
+   <div class="titlu_oras5">Urban aesthetic 5, <i>2023</i></div>
+   <p class="date_oras5">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+<div class="orase6">
+ <img src="oras6.jpg" alt="Lucrare oras6" class="oras6" style="height:600px;width:400px">
+ <div class="oras6_overlay">
+   <div class="titlu_oras6">Urban aesthetic 6, <i>2023</i></div>
+   <p class="date_oras6">Size 42x29 cm<br>Technique - graphite</p>
+ </div>
+</div>
+
+
+<br>
+
+
+<div class="texte1">
+ <img src="text1.jpg" alt="Lucrare text1" class="text1" style="height:600px;width:400px">
+ <div class="text1_overlay">
+   <div class="titlu_text1">Messages 1, <i>2023</i></div>
+   <p class="date_text1">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte2">
+ <img src="text2.jpg" alt="Lucrare text2" class="text2" style="height:600px;width:400px">
+ <div class="text2_overlay">
+   <div class="titlu_text2">Messages 2, <i>2023</i></div>
+   <p class="date_text2">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte3">
+ <img src="text3.jpg" alt="Lucrare text3" class="text3" style="height:600px;width:400px">
+ <div class="text3_overlay">
+   <div class="titlu_text3">Messages 3, <i>2023</i></div>
+   <p class="date_text3">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte4">
+ <img src="text4.jpg" alt="Lucrare text4" class="text4" style="height:600px;width:400px">
+ <div class="text4_overlay">
+   <div class="titlu_text4">Messages 4, <i>2023</i></div>
+   <p class="date_text4">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte5">
+ <img src="text5.jpg" alt="Lucrare text5" class="text5" style="height:600px;width:400px">
+ <div class="text5_overlay">
+   <div class="titlu_text5">Messages 5, <i>2023</i></div>
+   <p class="date_text5">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte6">
+ <img src="text6.jpg" alt="Lucrare text6" class="text6" style="height:600px;width:400px">
+ <div class="text6_overlay">
+   <div class="titlu_text6">Messages 6, <i>2023</i></div>
+   <p class="date_text6">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte7">
+ <img src="text7.jpg" alt="Lucrare text7" class="text7" style="height:600px;width:400px">
+ <div class="text7_overlay">
+   <div class="titlu_text7">Messages 7, <i>2023</i></div>
+   <p class="date_text7">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte8">
+ <img src="text8.jpg" alt="Lucrare text8" class="text8" style="height:600px;width:400px">
+ <div class="text8_overlay">
+   <div class="titlu_text8">Messages 8, <i>2023</i></div>
+   <p class="date_text8">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte9">
+ <img src="text9.jpg" alt="Lucrare text9" class="text9" style="height:600px;width:400px">
+ <div class="text9_overlay">
+   <div class="titlu_text9">Messages 9, <i>2023</i></div>
+   <p class="date_text9">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+<div class="texte10">
+ <img src="text10.jpg" alt="Lucrare text10" class="text10" style="height:600px;width:400px">
+ <div class="text10_overlay">
+   <div class="titlu_text10">Messages 10, <i>2023</i></div>
+   <p class="date_text10">Size 50x35 cm<br>Technique - mixed media</p>
+ </div>
+</div>
+
+ <div>
+  <a href="meniu2.html"><button  type="button" class="homepage" style="margin-left:655px">Home</button></a>
+ </div>
+ 
+</div>
+
+
+</body>
+</html>
